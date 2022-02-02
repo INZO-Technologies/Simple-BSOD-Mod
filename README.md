@@ -21,7 +21,6 @@ What Apps Did you have open?
 
 ## FINALLY
 INZO Technologies takes no responsibility for:
-Lost/ corrupted file
-potention inconveniences 
+Lost / corrupted files or any inconveniences 
 
 you have been warned use this mod at your own risk
