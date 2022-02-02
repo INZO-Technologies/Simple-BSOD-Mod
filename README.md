@@ -1,5 +1,5 @@
 # Simple-BSOD-Mod
-Simple way of causing a bsod using the native api implementet into a 1.12.2 Forge mod
+Simple way of causing a bsod using the native api implementet into a 1.12.2 Forge mod. Dowload It  <a href="https://github.com/INZO-Technologies/Simple-BSOD-Mod/releases/tag/v1.0">HERE</a>
 
 
 
