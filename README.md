@@ -1,6 +1,8 @@
 # Simple-BSOD-Mod
 Simple way of causing a bsod using the native api implemented into a 1.12.2 Forge mod. Dowload It  <a href="https://github.com/INZO-Technologies/Simple-BSOD-Mod/releases/tag/v1.0">HERE</a>
 
+To make your own you can go to [Main-Files](https://github.com/INZO-Technologies/Simple-BSOD-Mod/tree/Base-Files)
+
 
 
 ## What Causes This?:
